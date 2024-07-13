@@ -21,7 +21,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="grub4android/build" >
+  <project path="build" name="Kaloyan501/build" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
